@@ -1,0 +1,2 @@
+Name: Walter
+registration code : 12345
